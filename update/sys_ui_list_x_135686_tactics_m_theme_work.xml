@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_135686_tactics_m_theme" version="2" view="Work">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_135686_tactics_m_theme" element="NULL" name="x_135686_tactics_m_theme" parent="NULL" relationship="NULL" sys_domain="global" view="eed68637dba123000ceb2a9a4896195f">89788a77dba123000ceb2a9a489619a7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-10 09:43:43</sys_created_on>
+            <sys_id>01788a77dba123000ceb2a9a489619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-10 09:43:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_135686_tactics_m_theme" element="NULL" name="x_135686_tactics_m_theme" parent="NULL" relationship="NULL" sys_domain="global" view="eed68637dba123000ceb2a9a4896195f">89788a77dba123000ceb2a9a489619a7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-10 09:43:43</sys_created_on>
+            <sys_id>81788a77dba123000ceb2a9a489619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-10 09:43:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_135686_tactics_m_theme" element="NULL" name="x_135686_tactics_m_theme" parent="NULL" relationship="NULL" sys_domain="global" view="eed68637dba123000ceb2a9a4896195f">89788a77dba123000ceb2a9a489619a7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-10 09:43:43</sys_created_on>
+            <sys_id>05788a77dba123000ceb2a9a489619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-10 09:43:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_135686_tactics_m_theme" element="NULL" name="x_135686_tactics_m_theme" parent="NULL" relationship="NULL" sys_domain="global" view="eed68637dba123000ceb2a9a4896195f">89788a77dba123000ceb2a9a489619a7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-10 09:43:43</sys_created_on>
+            <sys_id>85788a77dba123000ceb2a9a489619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-10 09:43:43</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_135686_tactics_m_theme</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-10 09:43:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89788a77dba123000ceb2a9a489619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_135686_tactics_m_theme</sys_name>
+            <sys_package display_value="Tactics Manager" source="x_135686_tactics_m">fbba9d37db2123000ceb2a9a489619b5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tactics Manager">fbba9d37db2123000ceb2a9a489619b5</sys_scope>
+            <sys_update_name>sys_ui_list_x_135686_tactics_m_theme_Work</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-10 09:43:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="Work" name="Work">eed68637dba123000ceb2a9a4896195f</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Theme" max_length="40" name="x_135686_tactics_m_theme" sizeclass="14" type="collection"/>
+</database>
