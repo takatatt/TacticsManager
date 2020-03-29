@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_number">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
     <sys_number action="INSERT_OR_UPDATE">
         <category display_value="" name="x_135686_tactics_m_theme">x_135686_tactics_m_theme</category>
         <maximum_digits>2</maximum_digits>

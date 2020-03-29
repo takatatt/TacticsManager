@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="e2d68a37dba123000ceb2a9a489619e8" sys_domain="global" table="x_135686_tactics_m_theme" version="3" view="Work">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>

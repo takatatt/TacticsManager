@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Tactics">4f1491b6db7923000ceb2a9a4896191f</application>
+        <filter table="x_135686_tactics_m_tactics">stateNOT IN-5,3,4,7^EQ<item display_value="-5,3,4,7" endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="-5,3,4,7"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <name>Tactics</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_135686_tactics_m.tactics_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-12 23:41:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a744e554db0b23000ceb2a9a489619ad</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Tactics</sys_name>
+        <sys_package display_value="Tactics Manager" source="x_135686_tactics_m">fbba9d37db2123000ceb2a9a489619b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tactics Manager">fbba9d37db2123000ceb2a9a489619b5</sys_scope>
+        <sys_update_name>sys_ui_module_a744e554db0b23000ceb2a9a489619ad</sys_update_name>
+        <sys_updated_by>takatatt</sys_updated_by>
+        <sys_updated_on>2020-03-23 00:55:34</sys_updated_on>
+        <table>x_135686_tactics_m_tactics</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

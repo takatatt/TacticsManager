@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="e8713937db6123000ceb2a9a48961900" sys_domain="global" table="x_135686_tactics_m_tactics" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
@@ -166,6 +165,34 @@
             <sys_ui_section caption="NULL" display_value="" name="x_135686_tactics_m_tactics" sys_domain="global" view="Default view">e8713937db6123000ceb2a9a48961900</sys_ui_section>
             <sys_updated_by>takatatt</sys_updated_by>
             <sys_updated_on>2018-11-10 08:03:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_wiki</element>
+            <position>12</position>
+            <sys_created_by>takatatt</sys_created_by>
+            <sys_created_on>2020-03-22 17:39:23</sys_created_on>
+            <sys_id>d41d9c54dbfb00100ceb2a9a4896193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_135686_tactics_m_tactics" sys_domain="global" view="Default view">e8713937db6123000ceb2a9a48961900</sys_ui_section>
+            <sys_updated_by>takatatt</sys_updated_by>
+            <sys_updated_on>2020-03-22 17:39:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_url</element>
+            <position>13</position>
+            <sys_created_by>takatatt</sys_created_by>
+            <sys_created_on>2020-03-29 11:09:05</sys_created_on>
+            <sys_id>4fd68b92dbfb00100ceb2a9a489619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_135686_tactics_m_tactics" sys_domain="global" view="Default view">e8713937db6123000ceb2a9a48961900</sys_ui_section>
+            <sys_updated_by>takatatt</sys_updated_by>
+            <sys_updated_on>2020-03-29 11:09:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

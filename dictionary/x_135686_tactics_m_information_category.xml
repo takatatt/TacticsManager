@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element label="Information Category" max_length="40" name="x_135686_tactics_m_information_category" type="collection">
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Information Category" max_length="40" name="x_135686_tactics_m_information_category" sizeclass="27" type="collection">
         <element label="Description" max_length="255" name="u_description" type="string"/>
         <element label="Number" max_length="40" name="u_number" type="string"/>
         <element display="true" label="Short Description" max_length="40" name="u_short_description" type="string"/>
         <element choice="1" label="Type" max_length="40" name="u_type" type="choice">
             <choice>
-                <element label="社内" language="ja" value="社内"/>
-                <element label="社外" language="ja" value="社外"/>
+                <element inactive_on_update="false" label="社内" language="ja" value="社内"/>
+                <element inactive_on_update="false" label="社外" language="ja" value="社外"/>
             </choice>
         </element>
     </element>

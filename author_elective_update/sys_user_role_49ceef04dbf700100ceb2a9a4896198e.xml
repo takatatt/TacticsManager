@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_135686_tactics_m.agenda_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>agenda_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>takatatt</sys_created_by>
+        <sys_created_on>2020-03-22 14:17:06</sys_created_on>
+        <sys_id>49ceef04dbf700100ceb2a9a4896198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_135686_tactics_m.agenda_user</sys_name>
+        <sys_package display_value="Tactics Manager" source="x_135686_tactics_m">fbba9d37db2123000ceb2a9a489619b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tactics Manager">fbba9d37db2123000ceb2a9a489619b5</sys_scope>
+        <sys_update_name>sys_user_role_49ceef04dbf700100ceb2a9a4896198e</sys_update_name>
+        <sys_updated_by>takatatt</sys_updated_by>
+        <sys_updated_on>2020-03-22 14:17:06</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tactics Manager">fbba9d37db2123000ceb2a9a489619b5</application>
+        <file_path/>
+        <instance_id>10a675e1dbf35f00b2e05d00cf961971</instance_id>
+        <instance_name>dev69346</instance_name>
+        <name>sys_user_role_49ceef04dbf700100ceb2a9a4896198e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_135686_tactics_m.agenda_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>agenda_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>takatatt</sys_created_by><sys_created_on>2020-03-22 14:17:06</sys_created_on><sys_id>49ceef04dbf700100ceb2a9a4896198e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_135686_tactics_m.agenda_user</sys_name><sys_package display_value="Tactics Manager" source="x_135686_tactics_m">fbba9d37db2123000ceb2a9a489619b5</sys_package><sys_policy/><sys_scope display_value="Tactics Manager">fbba9d37db2123000ceb2a9a489619b5</sys_scope><sys_update_name>sys_user_role_49ceef04dbf700100ceb2a9a4896198e</sys_update_name><sys_updated_by>takatatt</sys_updated_by><sys_updated_on>2020-03-22 14:17:06</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>2109984338</payload_hash>
+        <record_name>x_135686_tactics_m.agenda_user</record_name>
+        <reverted_from/>
+        <source>007b994ddbfe80100ceb2a9a48961948</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>takatatt</sys_created_by>
+        <sys_created_on>2020-03-22 14:17:06</sys_created_on>
+        <sys_id>4dceef04dbf700100ceb2a9a48961994</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171029ab8350000001</sys_recorded_at>
+        <sys_updated_by>takatatt</sys_updated_by>
+        <sys_updated_on>2020-03-22 14:17:06</sys_updated_on>
+        <type>Role</type>
+        <update_guid>85ceef043ef70010375aab7949236b94</update_guid>
+        <update_guid_history>85ceef043ef70010375aab7949236b94:2109984338</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-03-23 01:38:43">ef2f0490dbbb00100ceb2a9a489619de</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>takatatt</sys_created_by>
+        <sys_created_on>2020-03-22 16:38:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>033f4428829644b081c970f2831ecc40</sys_id>
+        <sys_metadata>49ceef04dbf700100ceb2a9a4896198e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_135686_tactics_m.agenda_user</sys_name>
+        <sys_package display_value="Tactics Manager" source="x_135686_tactics_m">fbba9d37db2123000ceb2a9a489619b5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tactics Manager">fbba9d37db2123000ceb2a9a489619b5</sys_scope>
+        <sys_scope_delete display_value="">654790715fd74c71acacd589ea201049</sys_scope_delete>
+        <sys_update_name>sys_user_role_49ceef04dbf700100ceb2a9a4896198e</sys_update_name>
+        <sys_update_version display_value="sys_user_role_49ceef04dbf700100ceb2a9a4896198e">4dceef04dbf700100ceb2a9a48961994</sys_update_version>
+        <sys_updated_by>takatatt</sys_updated_by>
+        <sys_updated_on>2020-03-22 16:38:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Agenda" max_length="40" name="x_135686_tactics_m_agenda" sizeclass="1" type="collection"/>
+</database>

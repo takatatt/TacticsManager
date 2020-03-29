@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-10-28 12:06:08</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>takatatt</sys_created_by>
+        <sys_created_on>2019-10-16 02:40:03</sys_created_on>
+        <sys_id>71042745dbec40100ceb2a9a4896196e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>D9A1FB0D79B85C39A7D5825AB3AAB88B41AA61404719BF3A4D70A79042276417</sys_name>
+        <sys_package display_value="Tactics Manager" source="x_135686_tactics_m">fbba9d37db2123000ceb2a9a489619b5</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Request Application">ac7f61d273122300d63a566a4cf6a78b</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="Tactics Manager">fbba9d37db2123000ceb2a9a489619b5</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_71042745dbec40100ceb2a9a4896196e</sys_update_name>
+        <sys_updated_by>takatatt</sys_updated_by>
+        <sys_updated_on>2019-10-28 12:06:08</sys_updated_on>
+        <sys_user_id display_value="Tetsuo Takata">fa864944db1023000ceb2a9a4896190f</sys_user_id>
+        <token>D9A1FB0D79B85C39A7D5825AB3AAB88B41AA61404719BF3A4D70A79042276417</token>
+    </sys_push_notif_app_install>
+</record_update>

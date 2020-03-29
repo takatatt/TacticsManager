@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element label="Information" max_length="40" name="x_135686_tactics_m_information" type="collection">
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Information" max_length="40" name="x_135686_tactics_m_information" sizeclass="18" type="collection">
         <element label="Description" max_length="256" name="u_description" type="string"/>
         <element label="How" max_length="256" name="u_how" type="string"/>
         <element label="Information Category" max_length="32" name="u_information_category" reference="x_135686_tactics_m_information_category" type="reference"/>
         <element choice="3" label="Priority" max_length="40" name="u_priority" type="integer">
             <choice>
-                <element label="High" sequence="1" value="1"/>
-                <element label="Middle" sequence="2" value="3"/>
-                <element label="Low" sequence="3" value="5"/>
+                <element inactive_on_update="false" label="High" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="Middle" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Low" sequence="3" value="5"/>
             </choice>
         </element>
         <element display="true" label="Short Description" max_length="40" name="u_short_description" type="string"/>
